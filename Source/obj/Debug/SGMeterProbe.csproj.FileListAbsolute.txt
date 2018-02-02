@@ -1,0 +1,9 @@
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\bin\Debug\SGMeterProbe.exe.config
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\bin\Debug\SGMeterProbe.exe
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\bin\Debug\SGMeterProbe.pdb
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\obj\Debug\SGMeterProbe.csprojResolveAssemblyReference.cache
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\obj\Debug\SGMeterProbe.Form1.resources
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\obj\Debug\SGMeterProbe.Properties.Resources.resources
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\obj\Debug\SGMeterProbe.csproj.GenerateResource.Cache
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\obj\Debug\SGMeterProbe.exe
+C:\Users\TaylorSussex\Documents\Projects\SGMeterProbe\obj\Debug\SGMeterProbe.pdb
